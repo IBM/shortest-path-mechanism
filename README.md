@@ -2,7 +2,7 @@
 
 ## Scope
 
-This repository is the official implementation of [Socially efficient mechanism on the minimum budget]().
+This repository is the official implementation of "Socially efficient mechanism on the minimum budget."
 
 
 ## Requirements
