@@ -2,6 +2,8 @@
 # Copyright contributors to the shortest-path-mechanism project
 # SPDX-License-Identifier: Apache-2.0
 #
+# Author: Hirota Kinoshita
+#
 
 
 """Affine maximizer template."""
